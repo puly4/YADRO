@@ -7,4 +7,5 @@ client = commands.bot(command_prefix = '.')
 async def on_ready():
   print('bot id ready.')
   
-client.run('NjQ5OTY2MTQ3MzQwNDY4MjM2.XeNsxQ.Nard7QPoj1-kKpTlKy_GxPY5t7M')
+client.run('NjQ5OTY2MTQ3MzQwNDY4MjM2.XeNvhA.2hPF_IuJEsS9zUzhE0E7ISMuRSk
+')
