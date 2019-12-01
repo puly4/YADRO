@@ -3,7 +3,7 @@
 import discord
 from discord.ext import commands
 
-client = command.bot(command_prefix = '.')
+client = commands.bot(command_prefix = '.')
 
 @client.event
 async def on_ready():
